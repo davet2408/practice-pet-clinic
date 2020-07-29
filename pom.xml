@@ -26,6 +26,11 @@
 		<java.version>11</java.version>
 	</properties>
 
+	<scm>
+		<developerConnection>scm:git:https://github.com/davet2408/practice-pet-clinic.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
@@ -43,9 +48,5 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<developerConnection>scm:git:https://github.com/davet2408/practice-pet-clinic.git</developerConnection>
-	    <tag>HEAD</tag>
-  </scm>
 
 </project>
