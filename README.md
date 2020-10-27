@@ -1,0 +1,1 @@
+[![CircleCi](https://circleci.com/gh/davet2408/practice-pet-clinic.svg?style=svg)](https://app.circleci.com/pipelines/github/davet2408/practice-pet-clinic)
